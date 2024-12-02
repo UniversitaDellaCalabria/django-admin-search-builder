@@ -36,6 +36,6 @@ setup(
         'Programming Language :: Python :: 3',
     ],
     install_requires=[
-        'django>=3.0,<5.0',
+        'django>=3.0,<6.0',
     ],
 )
